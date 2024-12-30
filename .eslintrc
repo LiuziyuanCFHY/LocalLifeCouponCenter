@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@kds/react"
+  ],
+  "rules": {}
+}

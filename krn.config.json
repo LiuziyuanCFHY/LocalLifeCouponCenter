@@ -1,0 +1,6 @@
+{
+    "entry": "./src/index.tsx",
+    "scheme": "kwai://",
+    "framework": "React",
+    "useWebpack": true
+}
